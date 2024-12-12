@@ -16,7 +16,7 @@
 <p> At first you need go to the directory you want to clone this project </p>
 <br>
 
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Learning-management-system-Django-web-framework-API-with-React-Fullstack-project-.gitt</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Learning-management-system-Django-web-framework-API-with-React-Fullstack-project-.git</pre></div>
 
 <br><br>
 
